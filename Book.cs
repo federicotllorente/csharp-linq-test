@@ -6,8 +6,6 @@ public class Book
 
     public string Status { get; set; }
 
-    public string Status { get; set; }
-
     public DateTime PublishedDate { get; set; }
 
     public string ThumbnailUrl { get; set; }
