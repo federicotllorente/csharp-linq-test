@@ -1,0 +1,62 @@
+[
+    {
+        "orderId": 1,
+        "customerId": 156,
+        "purchasedDate": "2022-05-01",
+        "bookTitles": ["Unlocking Android", "Android in Action, Second Edition"]
+    },
+    {
+        "orderId": 2,
+        "customerId": 456,
+        "purchasedDate": "2022-05-02",
+        "bookTitles": ["Coffeehouse", "Team Foundation Server 2008 in Action"]
+    },
+    {
+        "orderId": 3,
+        "customerId": 884,
+        "purchasedDate": "2022-05-03",
+        "bookTitles": ["Hello! Flex 4", "C#: The Ultimate Advanced Guide To Master C# Programming"]
+    },
+    {
+        "orderId": 4,
+        "customerId": 884,
+        "purchasedDate": "2022-05-04",
+        "bookTitles": ["Specification by Example", "Collective Intelligence in Action"]
+    },
+    {
+        "orderId": 5,
+        "customerId": 674,
+        "purchasedDate": "2022-05-05",
+        "bookTitles": ["Griffon in Action", "OSGi in Depth"]
+    },
+    {
+        "orderId": 6,
+        "customerId": 415,
+        "purchasedDate": "2022-05-06",
+        "bookTitles": ["Flexible Rails", "Hello! Flex 4"]
+    },
+    {
+        "orderId": 7,
+        "customerId": 156,
+        "purchasedDate": "2022-05-07",
+        "bookTitles": ["Coffeehouse", "SharePoint 2010 Site Owner's Manual"]
+    },
+    {
+        "orderId": 8,
+        "customerId": 110,
+        "purchasedDate": "2022-05-08",
+        "bookTitles": ["JavaScript: The Definitive Guide", "C#: The Ultimate Advanced Guide To Master C# Programming"]
+    },
+    {
+        "orderId": 9,
+        "customerId": 156,
+        "purchasedDate": "2022-05-09",
+        "bookTitles": ["Unlocking Android", "Specification by Example"]
+    },
+    {
+        "orderId": 10,
+        "customerId": 110,
+        "purchasedDate": "2022-05-10",
+        "bookTitles": ["Griffon in Action", "Flexible Rails"]
+    }
+]

@@ -1,6 +1,6 @@
 ﻿LinqQuery query = new LinqQuery();
 
-PrintValues(query.GetCollection());
+PrintValues(query.GetAllFromCategory("Java", Order.Ascending));
 
 void PrintValues(IEnumerable<Book> bookList)
 {
